@@ -1,0 +1,4958 @@
+[
+  {
+    "gameId": "game-00001-elk-studios",
+    "title": "Charcoal Ronin",
+    "studio": "Elk Studios",
+    "type": "live",
+    "returnToPlayer": 98.16,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-08-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00001-elk-studios.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00004-microgaming",
+    "title": "Cosmic Equinox",
+    "studio": "Microgaming",
+    "type": "live",
+    "returnToPlayer": 97.91,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-10-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00004-microgaming.png",
+    "features": [
+      "bonus-buy",
+      "mythology",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00007-red-tiger",
+    "title": "Chromatic Blizzard",
+    "studio": "Red Tiger",
+    "type": "jackpot",
+    "returnToPlayer": 92.38,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-10-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00007-red-tiger.png",
+    "features": [
+      "sports",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00010-softswiss",
+    "title": "Royal Archive",
+    "studio": "SoftSwiss",
+    "type": "live",
+    "returnToPlayer": 97.6,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-07-14T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00010-softswiss.png",
+    "features": [
+      "bonus-buy",
+      "anime",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00013-casino-technology",
+    "title": "Azure Cathedral Monsoon",
+    "studio": "Casino Technology",
+    "type": "instant",
+    "returnToPlayer": 94.67,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-03-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00013-casino-technology.png",
+    "features": [
+      "megaways",
+      "free-spins",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00016-high-5-games",
+    "title": "Galactic Odyssey",
+    "studio": "High 5 Games",
+    "type": "slots",
+    "returnToPlayer": 93.93,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2021-08-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00016-high-5-games.png",
+    "features": [
+      "adventure",
+      "megaways",
+      "pirates",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00019-playson",
+    "title": "Shadow Trident",
+    "studio": "Playson",
+    "type": "jackpot",
+    "returnToPlayer": 90,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2018-08-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00019-playson.png",
+    "features": [
+      "pirates",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00022-playn-go",
+    "title": "Crackling Lantern",
+    "studio": "Play'n GO",
+    "type": "live",
+    "returnToPlayer": 99.42,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-10-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00022-playn-go.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00025-aristocrat",
+    "title": "Arctic Altar Riddle IV",
+    "studio": "Aristocrat",
+    "type": "jackpot",
+    "returnToPlayer": 93.87,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-02-10T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00025-aristocrat.png",
+    "features": [
+      "progressive",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00028-playson",
+    "title": "Plasma Sigil Rune",
+    "studio": "Playson",
+    "type": "live",
+    "returnToPlayer": 98.05,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-12-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00028-playson.png",
+    "features": [
+      "pirates",
+      "wild-west",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00031-1x2-network",
+    "title": "Roaring Triumph",
+    "studio": "1x2 Network",
+    "type": "table",
+    "returnToPlayer": 98.02,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-04-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00031-1x2-network.png",
+    "features": [
+      "space",
+      "classic",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00034-aristocrat",
+    "title": "Crackling Volcano Trail",
+    "studio": "Aristocrat",
+    "type": "table",
+    "returnToPlayer": 97.32,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-01-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00034-aristocrat.png",
+    "features": [
+      "pirates",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00037-1x2-network",
+    "title": "Sunken Pagoda",
+    "studio": "1x2 Network",
+    "type": "table",
+    "returnToPlayer": 96.61,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-08-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00037-1x2-network.png",
+    "features": [
+      "luxury",
+      "free-spins",
+      "bonus-buy",
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00040-red-tiger",
+    "title": "Prime Colossus",
+    "studio": "Red Tiger",
+    "type": "jackpot",
+    "returnToPlayer": 91.72,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-01-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00040-red-tiger.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00043-skywind",
+    "title": "Forgotten Bastille",
+    "studio": "Skywind",
+    "type": "instant",
+    "returnToPlayer": 94.19,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2019-04-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00043-skywind.png",
+    "features": [
+      "horror",
+      "progressive",
+      "dragons",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00046-genesis-gaming",
+    "title": "Ghostly Ritual Lighthouse",
+    "studio": "Genesis Gaming",
+    "type": "slots",
+    "returnToPlayer": 96.66,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-03-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00046-genesis-gaming.png",
+    "features": [
+      "luxury",
+      "fruit",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00049-aristocrat",
+    "title": "Harmonic Delta",
+    "studio": "Aristocrat",
+    "type": "instant",
+    "returnToPlayer": 91.28,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2025-11-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00049-aristocrat.png",
+    "features": [
+      "bonus-buy",
+      "dragons",
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00052-relax-gaming",
+    "title": "Ultra Phoenix Rocket",
+    "studio": "Relax Gaming",
+    "type": "instant",
+    "returnToPlayer": 95.3,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-08-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00052-relax-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00055-aristocrat",
+    "title": "Azure Orchard Relic",
+    "studio": "Aristocrat",
+    "type": "table",
+    "returnToPlayer": 98.23,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-11-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00055-aristocrat.png",
+    "features": [
+      "luxury",
+      "sports",
+      "fruit",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00058-netent",
+    "title": "Sapphire Nadir",
+    "studio": "NetEnt",
+    "type": "instant",
+    "returnToPlayer": 93.64,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-03-31T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00058-netent.png",
+    "features": [
+      "anime",
+      "fruit",
+      "adventure",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00061-yggdrasil",
+    "title": "Coral Djinn 9",
+    "studio": "Yggdrasil",
+    "type": "live",
+    "returnToPlayer": 97.9,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2020-04-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00061-yggdrasil.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00064-igt",
+    "title": "Shattered Djinn Matrix",
+    "studio": "IGT",
+    "type": "instant",
+    "returnToPlayer": 94.11,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-09-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00064-igt.png",
+    "features": [
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00067-slingo-originals",
+    "title": "Fey Shogun",
+    "studio": "Slingo Originals",
+    "type": "table",
+    "returnToPlayer": 97.44,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-05-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00067-slingo-originals.png",
+    "features": [
+      "fruit",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00070-greentube",
+    "title": "Dusty Tome",
+    "studio": "Greentube",
+    "type": "slots",
+    "returnToPlayer": 94.96,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-08-31T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00070-greentube.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00073-evolution",
+    "title": "Pulsating Ravine Palace",
+    "studio": "Evolution",
+    "type": "jackpot",
+    "returnToPlayer": 94.26,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-08-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00073-evolution.png",
+    "features": [
+      "wild-west",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00076-big-time-gaming",
+    "title": "Supreme Reef",
+    "studio": "Big Time Gaming",
+    "type": "live",
+    "returnToPlayer": 97.63,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-10-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00076-big-time-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00079-slingo-originals",
+    "title": "Quantum Hydra",
+    "studio": "Slingo Originals",
+    "type": "table",
+    "returnToPlayer": 96.99,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-06-12T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00079-slingo-originals.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00082-gamomat",
+    "title": "Bronze Leviathan Hydra",
+    "studio": "Gamomat",
+    "type": "jackpot",
+    "returnToPlayer": 91.81,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2024-01-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00082-gamomat.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00085-yggdrasil",
+    "title": "Secret Rocket",
+    "studio": "Yggdrasil",
+    "type": "slots",
+    "returnToPlayer": 94.98,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-03-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00085-yggdrasil.png",
+    "features": [
+      "sports",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00088-pragmatic-play",
+    "title": "Plasma Pulsar",
+    "studio": "Pragmatic Play",
+    "type": "slots",
+    "returnToPlayer": 95.92,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-09-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00088-pragmatic-play.png",
+    "features": [
+      "sports",
+      "adventure",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00091-betsoft",
+    "title": "Emerald Shield Lighthouse V",
+    "studio": "Betsoft",
+    "type": "live",
+    "returnToPlayer": 98.2,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2018-09-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00091-betsoft.png",
+    "features": [
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00094-evolution",
+    "title": "Cobalt Relic",
+    "studio": "Evolution",
+    "type": "jackpot",
+    "returnToPlayer": 92.85,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2026-01-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00094-evolution.png",
+    "features": [
+      "megaways",
+      "cluster-pays",
+      "sports",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00097-quickspin",
+    "title": "Glimmering Grimoire Medallion IV",
+    "studio": "Quickspin",
+    "type": "table",
+    "returnToPlayer": 96.75,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2026-03-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00097-quickspin.png",
+    "features": [
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00100-skywind",
+    "title": "Hyper Elixir",
+    "studio": "Skywind",
+    "type": "live",
+    "returnToPlayer": 98.6,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-12-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00100-skywind.png",
+    "features": [
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00103-ba-gaming",
+    "title": "Serene Rampart Colosseum",
+    "studio": "BA Gaming",
+    "type": "table",
+    "returnToPlayer": 97.2,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-02-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00103-ba-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00106-orbital-spin",
+    "title": "Thunderous Berserker",
+    "studio": "Orbital Spin",
+    "type": "jackpot",
+    "returnToPlayer": 88.87,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-05-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00106-orbital-spin.png",
+    "features": [
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00109-kaleidoscope",
+    "title": "Ivory Zodiac",
+    "studio": "Kaleidoscope",
+    "type": "jackpot",
+    "returnToPlayer": 91.31,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-06-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00109-kaleidoscope.png",
+    "features": [
+      "bonus-buy",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00112-wazdan",
+    "title": "Cobalt Nadir Tsunami 7",
+    "studio": "Wazdan",
+    "type": "slots",
+    "returnToPlayer": 93.05,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2026-01-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00112-wazdan.png",
+    "features": [
+      "bonus-buy",
+      "classic",
+      "cluster-pays",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00115-orbital-spin",
+    "title": "Druidic Fortress Pagoda",
+    "studio": "Orbital Spin",
+    "type": "slots",
+    "returnToPlayer": 93.66,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-10-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00115-orbital-spin.png",
+    "features": [
+      "cluster-pays",
+      "mythology",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00118-casino-technology",
+    "title": "Arctic Nadir",
+    "studio": "Casino Technology",
+    "type": "table",
+    "returnToPlayer": 96.24,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2021-06-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00118-casino-technology.png",
+    "features": [
+      "pirates",
+      "free-spins",
+      "fruit",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00121-spinomenal",
+    "title": "Unbreakable Savanna Summit",
+    "studio": "Spinomenal",
+    "type": "jackpot",
+    "returnToPlayer": 92.47,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-12-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00121-spinomenal.png",
+    "features": [
+      "progressive",
+      "bonus-buy",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00124-reelplay",
+    "title": "Shadow Archipelago",
+    "studio": "ReelPlay",
+    "type": "jackpot",
+    "returnToPlayer": 92.17,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2019-12-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00124-reelplay.png",
+    "features": [
+      "megaways",
+      "classic",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00127-genesis-gaming",
+    "title": "Neon Kingdom Galaxy",
+    "studio": "Genesis Gaming",
+    "type": "slots",
+    "returnToPlayer": 95.42,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-09-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00127-genesis-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00130-pariplay",
+    "title": "Tropical Mansion",
+    "studio": "Pariplay",
+    "type": "live",
+    "returnToPlayer": 98.4,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-03-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00130-pariplay.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00133-genesis-gaming",
+    "title": "Silver Bazaar",
+    "studio": "Genesis Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 91.18,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-05-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00133-genesis-gaming.png",
+    "features": [
+      "cluster-pays",
+      "progressive",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00136-evolution",
+    "title": "Platinum Reels",
+    "studio": "Evolution",
+    "type": "slots",
+    "returnToPlayer": 94.27,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-10-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00136-evolution.png",
+    "features": [
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00139-alea",
+    "title": "Wild Key Basilisk",
+    "studio": "Alea",
+    "type": "slots",
+    "returnToPlayer": 94.99,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-07-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00139-alea.png",
+    "features": [
+      "megaways",
+      "mythology",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00142-wazdan",
+    "title": "Solar Golem",
+    "studio": "Wazdan",
+    "type": "slots",
+    "returnToPlayer": 93.68,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-07-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00142-wazdan.png",
+    "features": [
+      "space",
+      "sports",
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00145-high-5-games",
+    "title": "Thunder Enchantress Beacon 3",
+    "studio": "High 5 Games",
+    "type": "table",
+    "returnToPlayer": 97.66,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-11-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00145-high-5-games.png",
+    "features": [
+      "free-spins",
+      "wild-west",
+      "anime",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00148-red-tiger",
+    "title": "Triumphant Empress",
+    "studio": "Red Tiger",
+    "type": "slots",
+    "returnToPlayer": 93.79,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-09-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00148-red-tiger.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00151-slingo-originals",
+    "title": "Pewter Treasures",
+    "studio": "Slingo Originals",
+    "type": "jackpot",
+    "returnToPlayer": 92.45,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-02-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00151-slingo-originals.png",
+    "features": [
+      "space",
+      "anime",
+      "progressive",
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00154-orbital-spin",
+    "title": "Bewitched Samurai 7",
+    "studio": "Orbital Spin",
+    "type": "slots",
+    "returnToPlayer": 96.08,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-09-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00154-orbital-spin.png",
+    "features": [
+      "mythology",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00157-microgaming",
+    "title": "Iron Eclipse",
+    "studio": "Microgaming",
+    "type": "instant",
+    "returnToPlayer": 94.55,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-12-01T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00157-microgaming.png",
+    "features": [
+      "anime",
+      "dragons",
+      "progressive",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00160-1x2-network",
+    "title": "Glacial Orchard",
+    "studio": "1x2 Network",
+    "type": "jackpot",
+    "returnToPlayer": 91.78,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-08-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00160-1x2-network.png",
+    "features": [
+      "progressive",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00163-nolimit-city",
+    "title": "Celestial Assassin Atoll",
+    "studio": "Nolimit City",
+    "type": "jackpot",
+    "returnToPlayer": 91.93,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-05-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00163-nolimit-city.png",
+    "features": [
+      "sports",
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00166-betsoft",
+    "title": "Magenta Treasures",
+    "studio": "Betsoft",
+    "type": "table",
+    "returnToPlayer": 97.53,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-10-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00166-betsoft.png",
+    "features": [
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00169-aurora-labs",
+    "title": "Swamp Outpost",
+    "studio": "Aurora Labs",
+    "type": "jackpot",
+    "returnToPlayer": 90.2,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-02-01T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00169-aurora-labs.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00172-nolimit-city",
+    "title": "Opulent Crown Leviathan",
+    "studio": "Nolimit City",
+    "type": "jackpot",
+    "returnToPlayer": 90.49,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2026-02-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00172-nolimit-city.png",
+    "features": [
+      "megaways",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00175-casino-technology",
+    "title": "Totemic Abyss",
+    "studio": "Casino Technology",
+    "type": "jackpot",
+    "returnToPlayer": 90.63,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-12-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00175-casino-technology.png",
+    "features": [
+      "bonus-buy",
+      "classic",
+      "mythology",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00178-alea",
+    "title": "Vivid Storm Potion",
+    "studio": "Alea",
+    "type": "instant",
+    "returnToPlayer": 93.07,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-03-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00178-alea.png",
+    "features": [
+      "pirates",
+      "luxury",
+      "megaways",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00181-elk-studios",
+    "title": "Frostbitten Trident",
+    "studio": "Elk Studios",
+    "type": "table",
+    "returnToPlayer": 97.45,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2018-11-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00181-elk-studios.png",
+    "features": [
+      "bonus-buy",
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00184-microgaming",
+    "title": "Interstellar Fortress Gate",
+    "studio": "Microgaming",
+    "type": "jackpot",
+    "returnToPlayer": 95.15,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-07-14T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00184-microgaming.png",
+    "features": [
+      "luxury",
+      "adventure",
+      "cluster-pays",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00187-nolimit-city",
+    "title": "Shamanic Realm",
+    "studio": "Nolimit City",
+    "type": "live",
+    "returnToPlayer": 98.62,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2022-03-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00187-nolimit-city.png",
+    "features": [
+      "dragons",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00190-skywind",
+    "title": "Glacial Horizon",
+    "studio": "Skywind",
+    "type": "slots",
+    "returnToPlayer": 94.5,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2022-06-12T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00190-skywind.png",
+    "features": [
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00193-tom-horn-gaming",
+    "title": "Astral Pendulum",
+    "studio": "Tom Horn Gaming",
+    "type": "instant",
+    "returnToPlayer": 93.85,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-12-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00193-tom-horn-gaming.png",
+    "features": [
+      "progressive",
+      "adventure",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00196-habanero",
+    "title": "Cosmic Samurai Fjord",
+    "studio": "Habanero",
+    "type": "table",
+    "returnToPlayer": 96.33,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-04-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00196-habanero.png",
+    "features": [
+      "mythology",
+      "sports",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00199-genesis-gaming",
+    "title": "Grand Mirage IV",
+    "studio": "Genesis Gaming",
+    "type": "live",
+    "returnToPlayer": 98.08,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2022-06-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00199-genesis-gaming.png",
+    "features": [
+      "horror",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00202-reelplay",
+    "title": "Runic Pharaoh",
+    "studio": "ReelPlay",
+    "type": "table",
+    "returnToPlayer": 97.41,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2021-10-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00202-reelplay.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00205-pariplay",
+    "title": "Glimmering Djinn II",
+    "studio": "Pariplay",
+    "type": "jackpot",
+    "returnToPlayer": 93.91,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-05-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00205-pariplay.png",
+    "features": [
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00208-igt",
+    "title": "Regal Effigy",
+    "studio": "IGT",
+    "type": "jackpot",
+    "returnToPlayer": 92.88,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-12-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00208-igt.png",
+    "features": [
+      "luxury",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00211-lightning-box",
+    "title": "Gilded Titan",
+    "studio": "Lightning Box",
+    "type": "table",
+    "returnToPlayer": 97.02,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2023-12-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00211-lightning-box.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00214-greentube",
+    "title": "Enchanted Workshop Enigma",
+    "studio": "Greentube",
+    "type": "slots",
+    "returnToPlayer": 93.66,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-02-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00214-greentube.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00217-ba-gaming",
+    "title": "Shamanic Cathedral Realm",
+    "studio": "BA Gaming",
+    "type": "slots",
+    "returnToPlayer": 94.5,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-08-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00217-ba-gaming.png",
+    "features": [
+      "dragons",
+      "classic",
+      "free-spins",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00220-hacksaw-gaming",
+    "title": "Phantom Palace Reef",
+    "studio": "Hacksaw Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 91.86,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-06-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00220-hacksaw-gaming.png",
+    "features": [
+      "adventure",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00223-pragmatic-play",
+    "title": "Twilight Valkyrie Dynasty",
+    "studio": "Pragmatic Play",
+    "type": "table",
+    "returnToPlayer": 97.7,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-06-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00223-pragmatic-play.png",
+    "features": [
+      "classic",
+      "pirates",
+      "cluster-pays",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00226-microgaming",
+    "title": "Valiant Mesa",
+    "studio": "Microgaming",
+    "type": "jackpot",
+    "returnToPlayer": 91.71,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-07-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00226-microgaming.png",
+    "features": [
+      "luxury",
+      "mythology",
+      "wild-west",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00229-habanero",
+    "title": "Amber Medallion Rune",
+    "studio": "Habanero",
+    "type": "live",
+    "returnToPlayer": 97.52,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2019-05-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00229-habanero.png",
+    "features": [
+      "mythology",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00232-softswiss",
+    "title": "Neonlit Shield",
+    "studio": "SoftSwiss",
+    "type": "slots",
+    "returnToPlayer": 94.21,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2021-07-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00232-softswiss.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00235-thunderkick",
+    "title": "Soaring Legacy Pagoda",
+    "studio": "Thunderkick",
+    "type": "live",
+    "returnToPlayer": 97.48,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-10-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00235-thunderkick.png",
+    "features": [
+      "classic",
+      "wild-west",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00238-evolution",
+    "title": "Onyx Jackpot Garden",
+    "studio": "Evolution",
+    "type": "live",
+    "returnToPlayer": 99.16,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2023-07-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00238-evolution.png",
+    "features": [
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00241-red-tiger",
+    "title": "Apex Orchard Whirlpool 4",
+    "studio": "Red Tiger",
+    "type": "instant",
+    "returnToPlayer": 93.62,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-07-31T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00241-red-tiger.png",
+    "features": [
+      "luxury",
+      "cluster-pays",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00244-mascot-gaming",
+    "title": "Silver Pendulum Shadow",
+    "studio": "Mascot Gaming",
+    "type": "instant",
+    "returnToPlayer": 92.51,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2026-04-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00244-mascot-gaming.png",
+    "features": [
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00247-quickspin",
+    "title": "Unstoppable Destiny",
+    "studio": "Quickspin",
+    "type": "slots",
+    "returnToPlayer": 94.11,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-09-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00247-quickspin.png",
+    "features": [
+      "fruit",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00250-alea",
+    "title": "Blazing Zodiac",
+    "studio": "Alea",
+    "type": "slots",
+    "returnToPlayer": 95.21,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-09-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00250-alea.png",
+    "features": [
+      "pirates",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00253-red-tiger",
+    "title": "Echoing Kingdom",
+    "studio": "Red Tiger",
+    "type": "live",
+    "returnToPlayer": 97.74,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-03-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00253-red-tiger.png",
+    "features": [
+      "free-spins",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00256-relax-gaming",
+    "title": "Digital Golem III",
+    "studio": "Relax Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 90.86,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2021-03-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00256-relax-gaming.png",
+    "features": [
+      "mythology",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00259-nolimit-city",
+    "title": "Holographic Spire",
+    "studio": "Nolimit City",
+    "type": "slots",
+    "returnToPlayer": 93.08,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2024-03-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00259-nolimit-city.png",
+    "features": [
+      "progressive",
+      "space",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00262-high-5-games",
+    "title": "Apex Singularity",
+    "studio": "High 5 Games",
+    "type": "instant",
+    "returnToPlayer": 94.56,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-01-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00262-high-5-games.png",
+    "features": [
+      "adventure",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00265-wazdan",
+    "title": "Quantum Garden",
+    "studio": "Wazdan",
+    "type": "instant",
+    "returnToPlayer": 95.43,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-09-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00265-wazdan.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00268-softswiss",
+    "title": "Mega Ankh Mesa",
+    "studio": "SoftSwiss",
+    "type": "table",
+    "returnToPlayer": 98.31,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2023-01-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00268-softswiss.png",
+    "features": [
+      "mythology",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00271-egt",
+    "title": "Neon Prophecy Cathedral V",
+    "studio": "EGT",
+    "type": "instant",
+    "returnToPlayer": 93.78,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-06-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00271-egt.png",
+    "features": [
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00274-igt",
+    "title": "Magnetic Centaur 3",
+    "studio": "IGT",
+    "type": "table",
+    "returnToPlayer": 97.4,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-06-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00274-igt.png",
+    "features": [
+      "mythology",
+      "anime",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00277-evolution",
+    "title": "Tidal Kraken",
+    "studio": "Evolution",
+    "type": "instant",
+    "returnToPlayer": 93.62,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2024-07-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00277-evolution.png",
+    "features": [
+      "bonus-buy",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00280-endorphina",
+    "title": "Fey Dominion III",
+    "studio": "Endorphina",
+    "type": "instant",
+    "returnToPlayer": 93.18,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-09-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00280-endorphina.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00283-aurora-labs",
+    "title": "Fearless Amphitheater",
+    "studio": "Aurora Labs",
+    "type": "slots",
+    "returnToPlayer": 95.07,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-04-12T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00283-aurora-labs.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00286-gamomat",
+    "title": "Hexed Crown 4",
+    "studio": "Gamomat",
+    "type": "jackpot",
+    "returnToPlayer": 90.79,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-02-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00286-gamomat.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00289-aurora-labs",
+    "title": "Roaring Scarab",
+    "studio": "Aurora Labs",
+    "type": "slots",
+    "returnToPlayer": 94.54,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2021-07-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00289-aurora-labs.png",
+    "features": [
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00292-nolimit-city",
+    "title": "Magnetic Empress",
+    "studio": "Nolimit City",
+    "type": "jackpot",
+    "returnToPlayer": 93.61,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2020-05-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00292-nolimit-city.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00295-nolimit-city",
+    "title": "Triumphant Bazaar",
+    "studio": "Nolimit City",
+    "type": "instant",
+    "returnToPlayer": 91.73,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2026-04-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00295-nolimit-city.png",
+    "features": [
+      "cluster-pays",
+      "pirates",
+      "adventure",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00298-playtech",
+    "title": "Mossy Glory Sanctuary",
+    "studio": "Playtech",
+    "type": "jackpot",
+    "returnToPlayer": 89.56,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-12-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00298-playtech.png",
+    "features": [
+      "luxury",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00301-orbital-spin",
+    "title": "Tempered Hydra Cauldron",
+    "studio": "Orbital Spin",
+    "type": "instant",
+    "returnToPlayer": 92.86,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2018-04-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00301-orbital-spin.png",
+    "features": [
+      "bonus-buy",
+      "wild-west",
+      "fruit",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00304-scientific-games",
+    "title": "Mythic Island Gate 2",
+    "studio": "Scientific Games",
+    "type": "live",
+    "returnToPlayer": 96.62,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-07-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00304-scientific-games.png",
+    "features": [
+      "bonus-buy",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00307-push-gaming",
+    "title": "Turbocharged Crown",
+    "studio": "Push Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 92.13,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2018-06-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00307-push-gaming.png",
+    "features": [
+      "fruit",
+      "dragons",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00310-ba-gaming",
+    "title": "Glorious Wraith",
+    "studio": "BA Gaming",
+    "type": "live",
+    "returnToPlayer": 97.88,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2018-06-14T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00310-ba-gaming.png",
+    "features": [
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00313-booming-games",
+    "title": "Cosmic Garden Banshee IV",
+    "studio": "Booming Games",
+    "type": "table",
+    "returnToPlayer": 98.49,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-02-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00313-booming-games.png",
+    "features": [
+      "luxury",
+      "free-spins",
+      "pirates",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00316-hacksaw-gaming",
+    "title": "Velocity Riddle",
+    "studio": "Hacksaw Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 93.9,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-07-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00316-hacksaw-gaming.png",
+    "features": [
+      "pirates",
+      "sports",
+      "classic",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00319-playtech",
+    "title": "Totemic Rocket",
+    "studio": "Playtech",
+    "type": "table",
+    "returnToPlayer": 98.36,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2026-01-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00319-playtech.png",
+    "features": [
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00322-greentube",
+    "title": "Garnet Waterfall",
+    "studio": "Greentube",
+    "type": "jackpot",
+    "returnToPlayer": 94.12,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-10-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00322-greentube.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00325-reelplay",
+    "title": "Windswept Typhoon",
+    "studio": "ReelPlay",
+    "type": "instant",
+    "returnToPlayer": 93.87,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-04-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00325-reelplay.png",
+    "features": [
+      "bonus-buy",
+      "free-spins",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00328-egt",
+    "title": "Enchanted Valkyrie",
+    "studio": "EGT",
+    "type": "slots",
+    "returnToPlayer": 93.48,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-09-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00328-egt.png",
+    "features": [
+      "anime",
+      "adventure",
+      "sports",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00331-1x2-network",
+    "title": "Charmed Lantern",
+    "studio": "1x2 Network",
+    "type": "instant",
+    "returnToPlayer": 93.22,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-05-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00331-1x2-network.png",
+    "features": [
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00334-wazdan",
+    "title": "Omniscient Leviathan",
+    "studio": "Wazdan",
+    "type": "live",
+    "returnToPlayer": 98.78,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2022-07-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00334-wazdan.png",
+    "features": [
+      "progressive",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00337-high-5-games",
+    "title": "Bewitched Comet",
+    "studio": "High 5 Games",
+    "type": "slots",
+    "returnToPlayer": 93.12,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-02-12T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00337-high-5-games.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00340-pariplay",
+    "title": "Harmonic Horizon",
+    "studio": "Pariplay",
+    "type": "jackpot",
+    "returnToPlayer": 90.84,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-11-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00340-pariplay.png",
+    "features": [
+      "progressive",
+      "luxury",
+      "pirates",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00343-endorphina",
+    "title": "Circuit Cerberus",
+    "studio": "Endorphina",
+    "type": "jackpot",
+    "returnToPlayer": 92.05,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-12-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00343-endorphina.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00346-isoftbet",
+    "title": "Tempered Sphinx 1",
+    "studio": "iSoftBet",
+    "type": "live",
+    "returnToPlayer": 97.94,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2023-04-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00346-isoftbet.png",
+    "features": [
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00349-yggdrasil",
+    "title": "Opulent Valkyrie",
+    "studio": "Yggdrasil",
+    "type": "jackpot",
+    "returnToPlayer": 94.04,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-01-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00349-yggdrasil.png",
+    "features": [
+      "cluster-pays",
+      "horror",
+      "megaways",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00352-booming-games",
+    "title": "Profane Pharaoh Tundra",
+    "studio": "Booming Games",
+    "type": "live",
+    "returnToPlayer": 98.42,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-05-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00352-booming-games.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00355-playtech",
+    "title": "Hidden Portal Centurion",
+    "studio": "Playtech",
+    "type": "jackpot",
+    "returnToPlayer": 91.79,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2021-12-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00355-playtech.png",
+    "features": [
+      "sports",
+      "space",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00358-spinomenal",
+    "title": "Crimson Glory 1",
+    "studio": "Spinomenal",
+    "type": "slots",
+    "returnToPlayer": 96.83,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-09-01T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00358-spinomenal.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00361-habanero",
+    "title": "Horizon Ankh Trident 3",
+    "studio": "Habanero",
+    "type": "table",
+    "returnToPlayer": 97.34,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-08-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00361-habanero.png",
+    "features": [
+      "bonus-buy",
+      "sports",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00364-reelplay",
+    "title": "Wild Beacon Wilds",
+    "studio": "ReelPlay",
+    "type": "instant",
+    "returnToPlayer": 94.77,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2026-02-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00364-reelplay.png",
+    "features": [
+      "anime",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00367-hacksaw-gaming",
+    "title": "Supreme Fortune Effigy",
+    "studio": "Hacksaw Gaming",
+    "type": "slots",
+    "returnToPlayer": 94.71,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-11-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00367-hacksaw-gaming.png",
+    "features": [
+      "fruit",
+      "horror",
+      "pirates",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00370-slingo-originals",
+    "title": "Shamanic Prophecy",
+    "studio": "Slingo Originals",
+    "type": "table",
+    "returnToPlayer": 96.06,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-04-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00370-slingo-originals.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00373-skywind",
+    "title": "Cobalt Glory Marketplace",
+    "studio": "Skywind",
+    "type": "slots",
+    "returnToPlayer": 94.47,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-03-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00373-skywind.png",
+    "features": [
+      "dragons",
+      "sports",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00376-tom-horn-gaming",
+    "title": "Gentle Lagoon 3",
+    "studio": "Tom Horn Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 93.7,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-06-12T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00376-tom-horn-gaming.png",
+    "features": [
+      "cluster-pays",
+      "horror",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00379-mascot-gaming",
+    "title": "Stormy Serpent Golem",
+    "studio": "Mascot Gaming",
+    "type": "slots",
+    "returnToPlayer": 94.82,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-03-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00379-mascot-gaming.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00382-egt",
+    "title": "Fabled Altar 7",
+    "studio": "EGT",
+    "type": "jackpot",
+    "returnToPlayer": 90.36,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-10-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00382-egt.png",
+    "features": [
+      "classic",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00385-isoftbet",
+    "title": "Shattered Oracle Labyrinth",
+    "studio": "iSoftBet",
+    "type": "table",
+    "returnToPlayer": 97.29,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-11-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00385-isoftbet.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00388-egt",
+    "title": "Primal Cosmos 8",
+    "studio": "EGT",
+    "type": "table",
+    "returnToPlayer": 98.41,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2021-03-10T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00388-egt.png",
+    "features": [
+      "adventure",
+      "fruit",
+      "progressive",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00391-endorphina",
+    "title": "Almighty Empress Fjord",
+    "studio": "Endorphina",
+    "type": "table",
+    "returnToPlayer": 97.22,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2023-01-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00391-endorphina.png",
+    "features": [
+      "anime",
+      "mythology",
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00394-scientific-games",
+    "title": "Echoing Elixir Wormhole",
+    "studio": "Scientific Games",
+    "type": "instant",
+    "returnToPlayer": 92.03,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-11-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00394-scientific-games.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00397-pariplay",
+    "title": "Onyx Prism",
+    "studio": "Pariplay",
+    "type": "instant",
+    "returnToPlayer": 93.42,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-03-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00397-pariplay.png",
+    "features": [
+      "fruit",
+      "wild-west",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00400-hacksaw-gaming",
+    "title": "Golden Ronin Wormhole 2",
+    "studio": "Hacksaw Gaming",
+    "type": "instant",
+    "returnToPlayer": 92.2,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2021-04-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00400-hacksaw-gaming.png",
+    "features": [
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00403-igt",
+    "title": "Spectral Sanctuary",
+    "studio": "IGT",
+    "type": "jackpot",
+    "returnToPlayer": 90.55,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-01-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00403-igt.png",
+    "features": [
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00406-betsoft",
+    "title": "Broken Vault",
+    "studio": "Betsoft",
+    "type": "jackpot",
+    "returnToPlayer": 93.07,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-09-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00406-betsoft.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00409-booming-games",
+    "title": "Howling Paradox 5",
+    "studio": "Booming Games",
+    "type": "table",
+    "returnToPlayer": 98.95,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-07-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00409-booming-games.png",
+    "features": [
+      "luxury",
+      "cluster-pays",
+      "classic",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00412-playn-go",
+    "title": "Neon Golem",
+    "studio": "Play'n GO",
+    "type": "slots",
+    "returnToPlayer": 95.34,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-07-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00412-playn-go.png",
+    "features": [
+      "megaways",
+      "dragons",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00415-netent",
+    "title": "Prime Sigil Casino 3",
+    "studio": "NetEnt",
+    "type": "jackpot",
+    "returnToPlayer": 93.17,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2018-08-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00415-netent.png",
+    "features": [
+      "anime",
+      "classic",
+      "cluster-pays",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00418-playson",
+    "title": "Daring Chalice",
+    "studio": "Playson",
+    "type": "table",
+    "returnToPlayer": 97.15,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-05-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00418-playson.png",
+    "features": [
+      "bonus-buy",
+      "megaways",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00421-push-gaming",
+    "title": "Ultra Reliquary Idol 7",
+    "studio": "Push Gaming",
+    "type": "table",
+    "returnToPlayer": 96.16,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-06-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00421-push-gaming.png",
+    "features": [
+      "wild-west",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00424-kaleidoscope",
+    "title": "Sundered Map",
+    "studio": "Kaleidoscope",
+    "type": "jackpot",
+    "returnToPlayer": 90.34,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-03-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00424-kaleidoscope.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00427-endorphina",
+    "title": "Forgotten Watchtower Ranger",
+    "studio": "Endorphina",
+    "type": "instant",
+    "returnToPlayer": 92.57,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-10-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00427-endorphina.png",
+    "features": [
+      "adventure",
+      "fruit",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00430-push-gaming",
+    "title": "Ethereal Artifact",
+    "studio": "Push Gaming",
+    "type": "slots",
+    "returnToPlayer": 95.86,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-01-14T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00430-push-gaming.png",
+    "features": [
+      "classic",
+      "adventure",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00433-nolimit-city",
+    "title": "Timeless Sanctuary",
+    "studio": "Nolimit City",
+    "type": "jackpot",
+    "returnToPlayer": 89.57,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-01-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00433-nolimit-city.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00436-wazdan",
+    "title": "Sundered Crypt II",
+    "studio": "Wazdan",
+    "type": "live",
+    "returnToPlayer": 98.92,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2022-06-10T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00436-wazdan.png",
+    "features": [
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00439-igt",
+    "title": "Unstoppable Scepter Grimoire 9",
+    "studio": "IGT",
+    "type": "table",
+    "returnToPlayer": 98.27,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-06-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00439-igt.png",
+    "features": [
+      "classic",
+      "sports",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00442-big-time-gaming",
+    "title": "Alpine Delta Cove IV",
+    "studio": "Big Time Gaming",
+    "type": "live",
+    "returnToPlayer": 97.5,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-01-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00442-big-time-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00445-playn-go",
+    "title": "Dusty Chimera",
+    "studio": "Play'n GO",
+    "type": "instant",
+    "returnToPlayer": 94.39,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-10-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00445-playn-go.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00448-nolimit-city",
+    "title": "Regal Tsunami",
+    "studio": "Nolimit City",
+    "type": "jackpot",
+    "returnToPlayer": 93.67,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-09-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00448-nolimit-city.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00451-endorphina",
+    "title": "Golden Cove",
+    "studio": "Endorphina",
+    "type": "jackpot",
+    "returnToPlayer": 90.59,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-08-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00451-endorphina.png",
+    "features": [
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00454-high-5-games",
+    "title": "Emerald Colossus Geyser",
+    "studio": "High 5 Games",
+    "type": "instant",
+    "returnToPlayer": 94.85,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-02-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00454-high-5-games.png",
+    "features": [
+      "free-spins",
+      "cluster-pays",
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00457-big-time-gaming",
+    "title": "Undying Relic",
+    "studio": "Big Time Gaming",
+    "type": "slots",
+    "returnToPlayer": 92.74,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-08-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00457-big-time-gaming.png",
+    "features": [
+      "bonus-buy",
+      "adventure",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00460-1x2-network",
+    "title": "Lost Citadel IV",
+    "studio": "1x2 Network",
+    "type": "jackpot",
+    "returnToPlayer": 93.51,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-08-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00460-1x2-network.png",
+    "features": [
+      "adventure",
+      "dragons",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00463-mascot-gaming",
+    "title": "Arctic Ronin Comet",
+    "studio": "Mascot Gaming",
+    "type": "slots",
+    "returnToPlayer": 95.34,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-12-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00463-mascot-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00466-spinomenal",
+    "title": "Plasma Storm",
+    "studio": "Spinomenal",
+    "type": "live",
+    "returnToPlayer": 97.19,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-04-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00466-spinomenal.png",
+    "features": [
+      "fruit",
+      "luxury",
+      "horror",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00469-lightning-box",
+    "title": "Volcanic Zenith",
+    "studio": "Lightning Box",
+    "type": "jackpot",
+    "returnToPlayer": 92.06,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-08-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00469-lightning-box.png",
+    "features": [
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00472-habanero",
+    "title": "Undying Eclipse Shield",
+    "studio": "Habanero",
+    "type": "slots",
+    "returnToPlayer": 95.61,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-08-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00472-habanero.png",
+    "features": [
+      "progressive",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00475-orbital-spin",
+    "title": "Radiant Inferno",
+    "studio": "Orbital Spin",
+    "type": "slots",
+    "returnToPlayer": 95.44,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-05-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00475-orbital-spin.png",
+    "features": [
+      "megaways",
+      "dragons",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00478-orbital-spin",
+    "title": "Plasma Reef",
+    "studio": "Orbital Spin",
+    "type": "slots",
+    "returnToPlayer": 96.02,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-07-05T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00478-orbital-spin.png",
+    "features": [
+      "horror",
+      "free-spins",
+      "mythology",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00481-reflex-gaming",
+    "title": "Crimson Arena 8",
+    "studio": "Reflex Gaming",
+    "type": "slots",
+    "returnToPlayer": 94.04,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2021-04-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00481-reflex-gaming.png",
+    "features": [
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00484-red-tiger",
+    "title": "Wicked Serpent",
+    "studio": "Red Tiger",
+    "type": "slots",
+    "returnToPlayer": 93.73,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-06-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00484-red-tiger.png",
+    "features": [
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00487-egt",
+    "title": "Stellar Cavern Kraken",
+    "studio": "EGT",
+    "type": "jackpot",
+    "returnToPlayer": 93.67,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-01-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00487-egt.png",
+    "features": [
+      "cluster-pays",
+      "horror",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00490-wazdan",
+    "title": "Booming Spin",
+    "studio": "Wazdan",
+    "type": "jackpot",
+    "returnToPlayer": 90.58,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-06-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00490-wazdan.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00493-high-5-games",
+    "title": "Sovereign Throne 1",
+    "studio": "High 5 Games",
+    "type": "slots",
+    "returnToPlayer": 95.18,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-08-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00493-high-5-games.png",
+    "features": [
+      "sports",
+      "luxury",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00496-pariplay",
+    "title": "Coral Abyss",
+    "studio": "Pariplay",
+    "type": "jackpot",
+    "returnToPlayer": 92.18,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2018-04-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00496-pariplay.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00499-reelplay",
+    "title": "Swamp Chamber",
+    "studio": "ReelPlay",
+    "type": "slots",
+    "returnToPlayer": 95.27,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-12-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00499-reelplay.png",
+    "features": [
+      "horror",
+      "free-spins",
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00502-push-gaming",
+    "title": "Sundered Wormhole Phoenix",
+    "studio": "Push Gaming",
+    "type": "live",
+    "returnToPlayer": 98.74,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-12-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00502-push-gaming.png",
+    "features": [
+      "dragons",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00505-nolimit-city",
+    "title": "Mahogany Bastille",
+    "studio": "Nolimit City",
+    "type": "slots",
+    "returnToPlayer": 96,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-03-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00505-nolimit-city.png",
+    "features": [
+      "megaways",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00508-aristocrat",
+    "title": "Glimmering Savanna",
+    "studio": "Aristocrat",
+    "type": "table",
+    "returnToPlayer": 98.56,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-06-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00508-aristocrat.png",
+    "features": [
+      "megaways",
+      "sports",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00511-casino-technology",
+    "title": "Regal Shogun",
+    "studio": "Casino Technology",
+    "type": "instant",
+    "returnToPlayer": 93.84,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2023-05-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00511-casino-technology.png",
+    "features": [
+      "fruit",
+      "free-spins",
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00514-pariplay",
+    "title": "Ember Empress Cavern",
+    "studio": "Pariplay",
+    "type": "table",
+    "returnToPlayer": 95.46,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2021-09-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00514-pariplay.png",
+    "features": [
+      "horror",
+      "progressive",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00517-slingo-originals",
+    "title": "Stellar Drawbridge",
+    "studio": "Slingo Originals",
+    "type": "jackpot",
+    "returnToPlayer": 92.43,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-11-05T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00517-slingo-originals.png",
+    "features": [
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00520-microgaming",
+    "title": "Runic Realm Avalanche",
+    "studio": "Microgaming",
+    "type": "table",
+    "returnToPlayer": 97.07,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-11-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00520-microgaming.png",
+    "features": [
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00523-orbital-spin",
+    "title": "Diamond Lagoon",
+    "studio": "Orbital Spin",
+    "type": "slots",
+    "returnToPlayer": 95.01,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2020-06-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00523-orbital-spin.png",
+    "features": [
+      "dragons",
+      "luxury",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00526-lightning-box",
+    "title": "Ashen Arcade Palace",
+    "studio": "Lightning Box",
+    "type": "table",
+    "returnToPlayer": 96.96,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2026-03-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00526-lightning-box.png",
+    "features": [
+      "progressive",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00529-mascot-gaming",
+    "title": "Charmed Sigil",
+    "studio": "Mascot Gaming",
+    "type": "table",
+    "returnToPlayer": 98.2,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-07-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00529-mascot-gaming.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00532-playson",
+    "title": "Mega Destiny Enigma",
+    "studio": "Playson",
+    "type": "slots",
+    "returnToPlayer": 93.25,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-06-10T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00532-playson.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00535-nolimit-city",
+    "title": "Amber Workshop",
+    "studio": "Nolimit City",
+    "type": "jackpot",
+    "returnToPlayer": 93.65,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-09-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00535-nolimit-city.png",
+    "features": [
+      "adventure",
+      "megaways",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00538-softswiss",
+    "title": "Epic Quasar",
+    "studio": "SoftSwiss",
+    "type": "instant",
+    "returnToPlayer": 92.49,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-02-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00538-softswiss.png",
+    "features": [
+      "mythology",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00541-yggdrasil",
+    "title": "Epic Drawbridge",
+    "studio": "Yggdrasil",
+    "type": "jackpot",
+    "returnToPlayer": 92.15,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2021-03-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00541-yggdrasil.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00544-netent",
+    "title": "Tempered Bazaar",
+    "studio": "NetEnt",
+    "type": "live",
+    "returnToPlayer": 97.88,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2026-02-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00544-netent.png",
+    "features": [
+      "free-spins",
+      "anime",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00547-reelplay",
+    "title": "Subterranean Kraken Wormhole",
+    "studio": "ReelPlay",
+    "type": "live",
+    "returnToPlayer": 98.17,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-11-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00547-reelplay.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00550-casino-technology",
+    "title": "Serene Map",
+    "studio": "Casino Technology",
+    "type": "slots",
+    "returnToPlayer": 95.76,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-04-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00550-casino-technology.png",
+    "features": [
+      "bonus-buy",
+      "cluster-pays",
+      "dragons",
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00553-endorphina",
+    "title": "Plasma Sorcerer",
+    "studio": "Endorphina",
+    "type": "slots",
+    "returnToPlayer": 94.48,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2026-01-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00553-endorphina.png",
+    "features": [
+      "fruit",
+      "wild-west",
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00556-greentube",
+    "title": "Regal Blizzard",
+    "studio": "Greentube",
+    "type": "instant",
+    "returnToPlayer": 94.93,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2025-02-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00556-greentube.png",
+    "features": [
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00559-genesis-gaming",
+    "title": "Echoing Grotto Map",
+    "studio": "Genesis Gaming",
+    "type": "table",
+    "returnToPlayer": 96.75,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-03-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00559-genesis-gaming.png",
+    "features": [
+      "sports",
+      "adventure",
+      "space",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00562-merkur",
+    "title": "Wyrd Sanctuary",
+    "studio": "Merkur",
+    "type": "live",
+    "returnToPlayer": 97.59,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-10-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00562-merkur.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00565-nolimit-city",
+    "title": "Chrome Scepter",
+    "studio": "Nolimit City",
+    "type": "table",
+    "returnToPlayer": 96.89,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-02-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00565-nolimit-city.png",
+    "features": [
+      "sports",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00568-aurora-labs",
+    "title": "Triumphant Legacy Storm",
+    "studio": "Aurora Labs",
+    "type": "instant",
+    "returnToPlayer": 93.58,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2025-07-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00568-aurora-labs.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00571-relax-gaming",
+    "title": "Subatomic Orbit",
+    "studio": "Relax Gaming",
+    "type": "slots",
+    "returnToPlayer": 95.34,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-12-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00571-relax-gaming.png",
+    "features": [
+      "mythology",
+      "adventure",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00574-1x2-network",
+    "title": "Peridot Treasures",
+    "studio": "1x2 Network",
+    "type": "jackpot",
+    "returnToPlayer": 93.12,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2021-04-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00574-1x2-network.png",
+    "features": [
+      "bonus-buy",
+      "wild-west",
+      "classic",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00577-blueprint",
+    "title": "Orbiting Peaks",
+    "studio": "Blueprint",
+    "type": "jackpot",
+    "returnToPlayer": 91.76,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-12-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00577-blueprint.png",
+    "features": [
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00580-lightning-box",
+    "title": "Imperial Savanna III",
+    "studio": "Lightning Box",
+    "type": "table",
+    "returnToPlayer": 96.79,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-06-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00580-lightning-box.png",
+    "features": [
+      "cluster-pays",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00583-push-gaming",
+    "title": "Abyssal Cathedral",
+    "studio": "Push Gaming",
+    "type": "instant",
+    "returnToPlayer": 92.15,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-09-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00583-push-gaming.png",
+    "features": [
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00586-lightning-box",
+    "title": "Radiant Amphitheater",
+    "studio": "Lightning Box",
+    "type": "jackpot",
+    "returnToPlayer": 90.18,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2021-11-12T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00586-lightning-box.png",
+    "features": [
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00589-red-tiger",
+    "title": "Reforged Ravine",
+    "studio": "Red Tiger",
+    "type": "slots",
+    "returnToPlayer": 94.97,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-01-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00589-red-tiger.png",
+    "features": [
+      "sports",
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00592-reflex-gaming",
+    "title": "Eternal Shield Frontier",
+    "studio": "Reflex Gaming",
+    "type": "live",
+    "returnToPlayer": 96.29,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2021-07-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00592-reflex-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00595-quickspin",
+    "title": "Unstoppable Rocket Dragons",
+    "studio": "Quickspin",
+    "type": "live",
+    "returnToPlayer": 98.51,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2020-11-01T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00595-quickspin.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00598-evolution",
+    "title": "Indigo Empress",
+    "studio": "Evolution",
+    "type": "instant",
+    "returnToPlayer": 94.44,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-08-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00598-evolution.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00601-kaleidoscope",
+    "title": "Copper Quasar",
+    "studio": "Kaleidoscope",
+    "type": "instant",
+    "returnToPlayer": 95.03,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-11-10T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00601-kaleidoscope.png",
+    "features": [
+      "bonus-buy",
+      "cluster-pays",
+      "adventure",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00604-tom-horn-gaming",
+    "title": "Blazing Paladin Watchtower",
+    "studio": "Tom Horn Gaming",
+    "type": "table",
+    "returnToPlayer": 96.27,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2025-08-05T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00604-tom-horn-gaming.png",
+    "features": [
+      "cluster-pays",
+      "free-spins",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00607-alea",
+    "title": "Grand Cavern",
+    "studio": "Alea",
+    "type": "jackpot",
+    "returnToPlayer": 91.62,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2025-05-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00607-alea.png",
+    "features": [
+      "anime",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00610-igt",
+    "title": "Frostbitten Gems 8",
+    "studio": "IGT",
+    "type": "table",
+    "returnToPlayer": 97.16,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2018-08-31T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00610-igt.png",
+    "features": [
+      "space",
+      "classic",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00613-alea",
+    "title": "Indigo Workshop",
+    "studio": "Alea",
+    "type": "table",
+    "returnToPlayer": 97.77,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-06-14T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00613-alea.png",
+    "features": [
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00616-orbital-spin",
+    "title": "Opulent Tempest",
+    "studio": "Orbital Spin",
+    "type": "jackpot",
+    "returnToPlayer": 90.03,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2024-06-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00616-orbital-spin.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00619-push-gaming",
+    "title": "Hidden Potion",
+    "studio": "Push Gaming",
+    "type": "slots",
+    "returnToPlayer": 94.09,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2025-04-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00619-push-gaming.png",
+    "features": [
+      "progressive",
+      "anime",
+      "free-spins",
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00622-red-tiger",
+    "title": "Radiant Wraith",
+    "studio": "Red Tiger",
+    "type": "instant",
+    "returnToPlayer": 93.7,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-01-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00622-red-tiger.png",
+    "features": [
+      "free-spins",
+      "anime",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00625-softswiss",
+    "title": "Ghostly Archive Tempest",
+    "studio": "SoftSwiss",
+    "type": "slots",
+    "returnToPlayer": 95.26,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-11-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00625-softswiss.png",
+    "features": [
+      "adventure",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00628-greentube",
+    "title": "Titanium Matrix Tundra",
+    "studio": "Greentube",
+    "type": "jackpot",
+    "returnToPlayer": 93.7,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2019-11-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00628-greentube.png",
+    "features": [
+      "cluster-pays",
+      "bonus-buy",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00631-aurora-labs",
+    "title": "Supreme Stronghold V",
+    "studio": "Aurora Labs",
+    "type": "live",
+    "returnToPlayer": 97.78,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-05-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00631-aurora-labs.png",
+    "features": [
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00634-kaleidoscope",
+    "title": "Iron Oracle 3",
+    "studio": "Kaleidoscope",
+    "type": "slots",
+    "returnToPlayer": 95.19,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2026-02-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00634-kaleidoscope.png",
+    "features": [
+      "anime",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00637-softswiss",
+    "title": "Quantum Enigma",
+    "studio": "SoftSwiss",
+    "type": "table",
+    "returnToPlayer": 95.81,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2022-11-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00637-softswiss.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00640-yggdrasil",
+    "title": "Subterranean Chimera Riddle",
+    "studio": "Yggdrasil",
+    "type": "live",
+    "returnToPlayer": 97.25,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-10-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00640-yggdrasil.png",
+    "features": [
+      "cluster-pays",
+      "space",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00643-skywind",
+    "title": "Sunken Marsh Heirloom",
+    "studio": "Skywind",
+    "type": "table",
+    "returnToPlayer": 96.51,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-11-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00643-skywind.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00646-1x2-network",
+    "title": "Bewitched Pegasus",
+    "studio": "1x2 Network",
+    "type": "table",
+    "returnToPlayer": 96.62,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2019-04-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00646-1x2-network.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00649-reelplay",
+    "title": "Wicked Crusader",
+    "studio": "ReelPlay",
+    "type": "live",
+    "returnToPlayer": 97.36,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-05-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00649-reelplay.png",
+    "features": [
+      "adventure",
+      "wild-west",
+      "anime",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00652-ba-gaming",
+    "title": "Sovereign Assassin",
+    "studio": "BA Gaming",
+    "type": "slots",
+    "returnToPlayer": 95.09,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-04-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00652-ba-gaming.png",
+    "features": [
+      "classic",
+      "luxury",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00655-alea",
+    "title": "Glorious Wraith",
+    "studio": "Alea",
+    "type": "table",
+    "returnToPlayer": 98.21,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-08-31T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00655-alea.png",
+    "features": [
+      "bonus-buy",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00658-thunderkick",
+    "title": "Cosmic Spire",
+    "studio": "Thunderkick",
+    "type": "instant",
+    "returnToPlayer": 93.75,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-12-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00658-thunderkick.png",
+    "features": [
+      "bonus-buy",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00661-reflex-gaming",
+    "title": "Fearless Trident",
+    "studio": "Reflex Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 89.44,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-10-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00661-reflex-gaming.png",
+    "features": [
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00664-thunderkick",
+    "title": "Infernal Caravan Typhoon",
+    "studio": "Thunderkick",
+    "type": "slots",
+    "returnToPlayer": 94.72,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-01-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00664-thunderkick.png",
+    "features": [
+      "fruit",
+      "mythology",
+      "bonus-buy",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00667-blueprint",
+    "title": "Ember Beacon Barracks",
+    "studio": "Blueprint",
+    "type": "table",
+    "returnToPlayer": 98.07,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-07-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00667-blueprint.png",
+    "features": [
+      "anime",
+      "adventure",
+      "progressive",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00670-microgaming",
+    "title": "Scorched Island",
+    "studio": "Microgaming",
+    "type": "instant",
+    "returnToPlayer": 92.57,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-10-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00670-microgaming.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00673-evolution",
+    "title": "Graviton Spire",
+    "studio": "Evolution",
+    "type": "instant",
+    "returnToPlayer": 93.66,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-08-31T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00673-evolution.png",
+    "features": [
+      "megaways",
+      "pirates",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00676-tom-horn-gaming",
+    "title": "Immortal Equinox",
+    "studio": "Tom Horn Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 91.48,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-10-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00676-tom-horn-gaming.png",
+    "features": [
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00679-betsoft",
+    "title": "Turbocharged Tavern 679",
+    "studio": "Betsoft",
+    "type": "live",
+    "returnToPlayer": 96.72,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-08-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00679-betsoft.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00682-microgaming",
+    "title": "Valiant Blizzard Plateau",
+    "studio": "Microgaming",
+    "type": "table",
+    "returnToPlayer": 96.21,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2024-09-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00682-microgaming.png",
+    "features": [
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00685-nolimit-city",
+    "title": "Blessed Anvil",
+    "studio": "Nolimit City",
+    "type": "instant",
+    "returnToPlayer": 93.56,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-08-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00685-nolimit-city.png",
+    "features": [
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00688-playson",
+    "title": "Savage Empress Thunder",
+    "studio": "Playson",
+    "type": "slots",
+    "returnToPlayer": 96.04,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-08-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00688-playson.png",
+    "features": [
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00691-evolution",
+    "title": "Violet Key",
+    "studio": "Evolution",
+    "type": "slots",
+    "returnToPlayer": 95.55,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-11-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00691-evolution.png",
+    "features": [
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00694-softswiss",
+    "title": "Radiant Sanctum Fjord",
+    "studio": "SoftSwiss",
+    "type": "instant",
+    "returnToPlayer": 94.89,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-08-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00694-softswiss.png",
+    "features": [
+      "mythology",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00697-orbital-spin",
+    "title": "Timeless Bastille",
+    "studio": "Orbital Spin",
+    "type": "live",
+    "returnToPlayer": 97.96,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2022-10-05T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00697-orbital-spin.png",
+    "features": [
+      "free-spins",
+      "wild-west",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00700-playn-go",
+    "title": "Eldritch Kingdom",
+    "studio": "Play'n GO",
+    "type": "table",
+    "returnToPlayer": 97.22,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2020-03-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00700-playn-go.png",
+    "features": [
+      "free-spins",
+      "fruit",
+      "mythology",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00703-big-time-gaming",
+    "title": "Ghostly Ruins",
+    "studio": "Big Time Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 92.55,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2021-11-10T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00703-big-time-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00706-greentube",
+    "title": "Infinite Catacombs",
+    "studio": "Greentube",
+    "type": "instant",
+    "returnToPlayer": 90.81,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-10-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00706-greentube.png",
+    "features": [
+      "free-spins",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00709-skywind",
+    "title": "Exalted Idol",
+    "studio": "Skywind",
+    "type": "table",
+    "returnToPlayer": 97.48,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-12-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00709-skywind.png",
+    "features": [
+      "free-spins",
+      "anime",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00712-playn-go",
+    "title": "Diamond Pegasus 7",
+    "studio": "Play'n GO",
+    "type": "slots",
+    "returnToPlayer": 95.83,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-09-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00712-playn-go.png",
+    "features": [
+      "pirates",
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00715-greentube",
+    "title": "Pewter Tundra",
+    "studio": "Greentube",
+    "type": "table",
+    "returnToPlayer": 97.68,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2019-11-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00715-greentube.png",
+    "features": [
+      "dragons",
+      "adventure",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00718-greentube",
+    "title": "Hallowed Comet",
+    "studio": "Greentube",
+    "type": "table",
+    "returnToPlayer": 95.79,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-12-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00718-greentube.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00721-relax-gaming",
+    "title": "Amber Geyser",
+    "studio": "Relax Gaming",
+    "type": "table",
+    "returnToPlayer": 98.88,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2023-01-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00721-relax-gaming.png",
+    "features": [
+      "fruit",
+      "adventure",
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00724-yggdrasil",
+    "title": "Jungle Beacon",
+    "studio": "Yggdrasil",
+    "type": "live",
+    "returnToPlayer": 97.41,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-09-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00724-yggdrasil.png",
+    "features": [
+      "progressive",
+      "mythology",
+      "anime",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00727-nolimit-city",
+    "title": "Violet Destiny",
+    "studio": "Nolimit City",
+    "type": "slots",
+    "returnToPlayer": 94.94,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2021-07-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00727-nolimit-city.png",
+    "features": [
+      "space",
+      "cluster-pays",
+      "adventure",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00730-kaleidoscope",
+    "title": "Solarized Mansion",
+    "studio": "Kaleidoscope",
+    "type": "table",
+    "returnToPlayer": 96.93,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2018-12-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00730-kaleidoscope.png",
+    "features": [
+      "free-spins",
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00733-elk-studios",
+    "title": "Frostbitten Stronghold Tundra",
+    "studio": "Elk Studios",
+    "type": "slots",
+    "returnToPlayer": 95.15,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-07-31T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00733-elk-studios.png",
+    "features": [
+      "dragons",
+      "wild-west",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00736-mascot-gaming",
+    "title": "Granite Valkyrie Palace",
+    "studio": "Mascot Gaming",
+    "type": "slots",
+    "returnToPlayer": 93.82,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2024-08-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00736-mascot-gaming.png",
+    "features": [
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00739-igt",
+    "title": "Celestial Waterfall",
+    "studio": "IGT",
+    "type": "table",
+    "returnToPlayer": 96.68,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2023-01-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00739-igt.png",
+    "features": [
+      "sports",
+      "space",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00742-thunderkick",
+    "title": "Glacial Pegasus",
+    "studio": "Thunderkick",
+    "type": "table",
+    "returnToPlayer": 96.78,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2023-02-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00742-thunderkick.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00745-scientific-games",
+    "title": "Pixelated Orchard 3",
+    "studio": "Scientific Games",
+    "type": "instant",
+    "returnToPlayer": 93.97,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-05-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00745-scientific-games.png",
+    "features": [
+      "megaways",
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00748-big-time-gaming",
+    "title": "Frozen Island",
+    "studio": "Big Time Gaming",
+    "type": "slots",
+    "returnToPlayer": 96.09,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-08-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00748-big-time-gaming.png",
+    "features": [
+      "sports",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00751-push-gaming",
+    "title": "Binary Steppe Volcano",
+    "studio": "Push Gaming",
+    "type": "instant",
+    "returnToPlayer": 93.24,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2019-09-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00751-push-gaming.png",
+    "features": [
+      "classic",
+      "cluster-pays",
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00754-relax-gaming",
+    "title": "Alpine Singularity 1",
+    "studio": "Relax Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 92.99,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-07-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00754-relax-gaming.png",
+    "features": [
+      "fruit",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00757-alea",
+    "title": "Verdant Tsunami Watchtower",
+    "studio": "Alea",
+    "type": "instant",
+    "returnToPlayer": 92.45,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-07-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00757-alea.png",
+    "features": [
+      "bonus-buy",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00760-egt",
+    "title": "Granite Alchemist",
+    "studio": "EGT",
+    "type": "jackpot",
+    "returnToPlayer": 92.27,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-12-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00760-egt.png",
+    "features": [
+      "sports",
+      "classic",
+      "wild-west",
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00763-thunderkick",
+    "title": "Galactic Library Nadir",
+    "studio": "Thunderkick",
+    "type": "jackpot",
+    "returnToPlayer": 91.9,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2019-09-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00763-thunderkick.png",
+    "features": [
+      "cluster-pays",
+      "space",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00766-scientific-games",
+    "title": "Whispering Cosmos",
+    "studio": "Scientific Games",
+    "type": "live",
+    "returnToPlayer": 96.91,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-07-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00766-scientific-games.png",
+    "features": [
+      "fruit",
+      "megaways",
+      "bonus-buy",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00769-merkur",
+    "title": "Haunted Paradox",
+    "studio": "Merkur",
+    "type": "jackpot",
+    "returnToPlayer": 91.96,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2025-08-12T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00769-merkur.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00772-playn-go",
+    "title": "Wicked Labyrinth",
+    "studio": "Play'n GO",
+    "type": "jackpot",
+    "returnToPlayer": 93.62,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-07-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00772-playn-go.png",
+    "features": [
+      "megaways",
+      "adventure",
+      "horror",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00775-aristocrat",
+    "title": "Vivid Colosseum III",
+    "studio": "Aristocrat",
+    "type": "instant",
+    "returnToPlayer": 93.93,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-07-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00775-aristocrat.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00778-reelplay",
+    "title": "Glacial Hammer",
+    "studio": "ReelPlay",
+    "type": "instant",
+    "returnToPlayer": 93.16,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-03-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00778-reelplay.png",
+    "features": [
+      "wild-west",
+      "megaways",
+      "fruit",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00781-endorphina",
+    "title": "Scorched Nexus",
+    "studio": "Endorphina",
+    "type": "table",
+    "returnToPlayer": 97.2,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2021-01-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00781-endorphina.png",
+    "features": [
+      "wild-west",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00784-isoftbet",
+    "title": "Sovereign Glacier Lighthouse",
+    "studio": "iSoftBet",
+    "type": "jackpot",
+    "returnToPlayer": 92.06,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2025-06-21T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00784-isoftbet.png",
+    "features": [
+      "wild-west",
+      "progressive",
+      "megaways",
+      "dragons"
+    ]
+  },
+  {
+    "gameId": "game-00787-endorphina",
+    "title": "Galactic Lighthouse Banshee",
+    "studio": "Endorphina",
+    "type": "jackpot",
+    "returnToPlayer": 93.84,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2018-05-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00787-endorphina.png",
+    "features": [
+      "fruit",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00790-netent",
+    "title": "Ultra Artifact IV",
+    "studio": "NetEnt",
+    "type": "slots",
+    "returnToPlayer": 93.52,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-01-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00790-netent.png",
+    "features": [
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00793-merkur",
+    "title": "Haunted Tempest",
+    "studio": "Merkur",
+    "type": "slots",
+    "returnToPlayer": 96.03,
+    "variance": "medium",
+    "active": false,
+    "launchDate": "2021-07-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00793-merkur.png",
+    "features": [
+      "horror",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00796-scientific-games",
+    "title": "Totemic Quasar",
+    "studio": "Scientific Games",
+    "type": "slots",
+    "returnToPlayer": 94.79,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2023-03-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00796-scientific-games.png",
+    "features": [
+      "classic",
+      "dragons",
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00799-red-tiger",
+    "title": "Sinister Ruins Savanna 3",
+    "studio": "Red Tiger",
+    "type": "live",
+    "returnToPlayer": 97.3,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2025-11-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00799-red-tiger.png",
+    "features": [
+      "free-spins",
+      "classic",
+      "megaways",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00802-booming-games",
+    "title": "Screaming Banshee",
+    "studio": "Booming Games",
+    "type": "live",
+    "returnToPlayer": 97.62,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2018-10-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00802-booming-games.png",
+    "features": [
+      "dragons",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00805-yggdrasil",
+    "title": "Ivory Viking Matrix",
+    "studio": "Yggdrasil",
+    "type": "slots",
+    "returnToPlayer": 95.36,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-05-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00805-yggdrasil.png",
+    "features": [
+      "fruit",
+      "mythology",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00808-spinomenal",
+    "title": "Quantum Temple Valkyrie 3",
+    "studio": "Spinomenal",
+    "type": "instant",
+    "returnToPlayer": 94.7,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-10-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00808-spinomenal.png",
+    "features": [
+      "mythology",
+      "fruit",
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00811-habanero",
+    "title": "Savage Quest",
+    "studio": "Habanero",
+    "type": "instant",
+    "returnToPlayer": 93.49,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-12-14T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00811-habanero.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00814-reflex-gaming",
+    "title": "Silver Outpost",
+    "studio": "Reflex Gaming",
+    "type": "instant",
+    "returnToPlayer": 92.54,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2023-04-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00814-reflex-gaming.png",
+    "features": [
+      "progressive",
+      "wild-west",
+      "dragons",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00817-pariplay",
+    "title": "Wild Titan Scepter",
+    "studio": "Pariplay",
+    "type": "live",
+    "returnToPlayer": 98.15,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2022-10-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00817-pariplay.png",
+    "features": [
+      "mythology",
+      "pirates",
+      "megaways"
+    ]
+  },
+  {
+    "gameId": "game-00820-slingo-originals",
+    "title": "Unbreakable Mirage Marketplace",
+    "studio": "Slingo Originals",
+    "type": "jackpot",
+    "returnToPlayer": 92.66,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-12-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00820-slingo-originals.png",
+    "features": [
+      "dragons",
+      "bonus-buy",
+      "free-spins",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00823-netent",
+    "title": "Jungle Steppe",
+    "studio": "NetEnt",
+    "type": "jackpot",
+    "returnToPlayer": 93.22,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-11-19T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00823-netent.png",
+    "features": [
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00826-merkur",
+    "title": "Ageless Map",
+    "studio": "Merkur",
+    "type": "live",
+    "returnToPlayer": 97.75,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-10-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00826-merkur.png",
+    "features": [
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00829-scientific-games",
+    "title": "Cyber Dynasty",
+    "studio": "Scientific Games",
+    "type": "slots",
+    "returnToPlayer": 93.87,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-07-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00829-scientific-games.png",
+    "features": [
+      "anime",
+      "free-spins",
+      "classic",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00832-orbital-spin",
+    "title": "Quantum Idol",
+    "studio": "Orbital Spin",
+    "type": "table",
+    "returnToPlayer": 97.31,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-06-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00832-orbital-spin.png",
+    "features": [
+      "wild-west",
+      "space",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00835-1x2-network",
+    "title": "Mythic Circuit Basilisk V",
+    "studio": "1x2 Network",
+    "type": "jackpot",
+    "returnToPlayer": 91.24,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-03-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00835-1x2-network.png",
+    "features": [
+      "sports",
+      "megaways",
+      "adventure",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00838-igt",
+    "title": "Opal Wilds IV",
+    "studio": "IGT",
+    "type": "instant",
+    "returnToPlayer": 92.52,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-11-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00838-igt.png",
+    "features": [
+      "mythology",
+      "megaways",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00841-quickspin",
+    "title": "Fiery Realm",
+    "studio": "Quickspin",
+    "type": "table",
+    "returnToPlayer": 97.74,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-03-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00841-quickspin.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00844-relax-gaming",
+    "title": "Crimson Monolith",
+    "studio": "Relax Gaming",
+    "type": "instant",
+    "returnToPlayer": 95.67,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-06-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00844-relax-gaming.png",
+    "features": [
+      "bonus-buy",
+      "classic",
+      "fruit",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00847-alea",
+    "title": "Subterranean Wormhole Tsunami",
+    "studio": "Alea",
+    "type": "slots",
+    "returnToPlayer": 95.61,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-02-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00847-alea.png",
+    "features": [
+      "luxury",
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00850-wazdan",
+    "title": "Hidden Ronin",
+    "studio": "Wazdan",
+    "type": "slots",
+    "returnToPlayer": 93.77,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-10-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00850-wazdan.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00853-greentube",
+    "title": "Ivory Tsunami",
+    "studio": "Greentube",
+    "type": "live",
+    "returnToPlayer": 96.77,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-05-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00853-greentube.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00856-habanero",
+    "title": "Phantom Meteor",
+    "studio": "Habanero",
+    "type": "jackpot",
+    "returnToPlayer": 90.96,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-03-03T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00856-habanero.png",
+    "features": [
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00859-push-gaming",
+    "title": "Reforged Ruins",
+    "studio": "Push Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 93.18,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2026-02-10T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00859-push-gaming.png",
+    "features": [
+      "mythology",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00862-pariplay",
+    "title": "Vortex Minotaur Inferno",
+    "studio": "Pariplay",
+    "type": "instant",
+    "returnToPlayer": 93.89,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-11-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00862-pariplay.png",
+    "features": [
+      "free-spins",
+      "luxury",
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00865-hacksaw-gaming",
+    "title": "Forgotten Singularity Wormhole II",
+    "studio": "Hacksaw Gaming",
+    "type": "slots",
+    "returnToPlayer": 95.72,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-02-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00865-hacksaw-gaming.png",
+    "features": [
+      "horror",
+      "anime",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00868-playson",
+    "title": "Alpine Wyvern 6",
+    "studio": "Playson",
+    "type": "instant",
+    "returnToPlayer": 91.41,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2021-05-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00868-playson.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00871-quickspin",
+    "title": "Hexed Tome",
+    "studio": "Quickspin",
+    "type": "live",
+    "returnToPlayer": 96.69,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-09-10T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00871-quickspin.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00874-greentube",
+    "title": "Sovereign Samurai",
+    "studio": "Greentube",
+    "type": "table",
+    "returnToPlayer": 96.9,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-12-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00874-greentube.png",
+    "features": [
+      "progressive",
+      "adventure",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00877-egt",
+    "title": "Magnetic Rampart",
+    "studio": "EGT",
+    "type": "slots",
+    "returnToPlayer": 94.65,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2020-12-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00877-egt.png",
+    "features": [
+      "anime",
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00880-pariplay",
+    "title": "Fabled Ronin",
+    "studio": "Pariplay",
+    "type": "slots",
+    "returnToPlayer": 94.5,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-11-04T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00880-pariplay.png",
+    "features": [
+      "sports",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00883-pariplay",
+    "title": "Daring Pharaoh",
+    "studio": "Pariplay",
+    "type": "table",
+    "returnToPlayer": 98.48,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-11-06T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00883-pariplay.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00886-wazdan",
+    "title": "Zephyr Amphitheater",
+    "studio": "Wazdan",
+    "type": "live",
+    "returnToPlayer": 99.19,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-07-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00886-wazdan.png",
+    "features": [
+      "mythology",
+      "space",
+      "fruit",
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00889-booming-games",
+    "title": "Swamp Spire Dynasty",
+    "studio": "Booming Games",
+    "type": "live",
+    "returnToPlayer": 97.84,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2018-05-28T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00889-booming-games.png",
+    "features": [
+      "space"
+    ]
+  },
+  {
+    "gameId": "game-00892-1x2-network",
+    "title": "Enchanted Relic",
+    "studio": "1x2 Network",
+    "type": "table",
+    "returnToPlayer": 95.74,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-01-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00892-1x2-network.png",
+    "features": [
+      "fruit",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00895-habanero",
+    "title": "Charcoal Crusader",
+    "studio": "Habanero",
+    "type": "live",
+    "returnToPlayer": 98.08,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2019-09-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00895-habanero.png",
+    "features": [
+      "pirates",
+      "fruit",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00898-ba-gaming",
+    "title": "Forbidden Assassin",
+    "studio": "BA Gaming",
+    "type": "live",
+    "returnToPlayer": 97.35,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2018-10-20T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00898-ba-gaming.png",
+    "features": [
+      "wild-west",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00901-high-5-games",
+    "title": "Coral Pegasus Fortress",
+    "studio": "High 5 Games",
+    "type": "instant",
+    "returnToPlayer": 93.93,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2021-01-18T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00901-high-5-games.png",
+    "features": [
+      "mythology",
+      "adventure",
+      "bonus-buy",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00904-red-tiger",
+    "title": "Glorious Ravine",
+    "studio": "Red Tiger",
+    "type": "jackpot",
+    "returnToPlayer": 95.1,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-11-26T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00904-red-tiger.png",
+    "features": [
+      "horror"
+    ]
+  },
+  {
+    "gameId": "game-00907-scientific-games",
+    "title": "Cursed Zenith",
+    "studio": "Scientific Games",
+    "type": "table",
+    "returnToPlayer": 97.82,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-09-27T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00907-scientific-games.png",
+    "features": [
+      "bonus-buy",
+      "classic",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00910-1x2-network",
+    "title": "Mahogany Garden Scarab",
+    "studio": "1x2 Network",
+    "type": "slots",
+    "returnToPlayer": 92.91,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2026-03-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00910-1x2-network.png",
+    "features": [
+      "luxury",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00913-slingo-originals",
+    "title": "Emerald Waterfall",
+    "studio": "Slingo Originals",
+    "type": "slots",
+    "returnToPlayer": 94.61,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2018-08-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00913-slingo-originals.png",
+    "features": [
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00916-lightning-box",
+    "title": "Forgotten Pulsar",
+    "studio": "Lightning Box",
+    "type": "jackpot",
+    "returnToPlayer": 90.17,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-12-30T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00916-lightning-box.png",
+    "features": [
+      "sports",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00919-pragmatic-play",
+    "title": "Exalted Totem",
+    "studio": "Pragmatic Play",
+    "type": "table",
+    "returnToPlayer": 97.63,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2020-08-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00919-pragmatic-play.png",
+    "features": [
+      "luxury",
+      "sports",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00922-1x2-network",
+    "title": "Broken Cove",
+    "studio": "1x2 Network",
+    "type": "slots",
+    "returnToPlayer": 96.98,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-11-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00922-1x2-network.png",
+    "features": [
+      "megaways",
+      "fruit",
+      "space",
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00925-igt",
+    "title": "Desert Pendulum Tomb",
+    "studio": "IGT",
+    "type": "slots",
+    "returnToPlayer": 94.76,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-04-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00925-igt.png",
+    "features": [
+      "wild-west",
+      "fruit",
+      "space",
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00928-genesis-gaming",
+    "title": "Charmed Basilisk Summit",
+    "studio": "Genesis Gaming",
+    "type": "table",
+    "returnToPlayer": 98.38,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-06-05T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00928-genesis-gaming.png",
+    "features": [
+      "cluster-pays"
+    ]
+  },
+  {
+    "gameId": "game-00931-softswiss",
+    "title": "Magnetic Phoenix Spire",
+    "studio": "SoftSwiss",
+    "type": "table",
+    "returnToPlayer": 97.42,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-01-05T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00931-softswiss.png",
+    "features": [
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00934-booming-games",
+    "title": "Midnight Codex Forge",
+    "studio": "Booming Games",
+    "type": "jackpot",
+    "returnToPlayer": 93.09,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2024-10-09T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00934-booming-games.png",
+    "features": [
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00937-pariplay",
+    "title": "Fearless Tsunami Wolves",
+    "studio": "Pariplay",
+    "type": "slots",
+    "returnToPlayer": 94.18,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2023-06-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00937-pariplay.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00940-merkur",
+    "title": "Ivory Marketplace",
+    "studio": "Merkur",
+    "type": "jackpot",
+    "returnToPlayer": 91.68,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2021-08-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00940-merkur.png",
+    "features": [
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00943-igt",
+    "title": "Mythic Cauldron",
+    "studio": "IGT",
+    "type": "jackpot",
+    "returnToPlayer": 89.39,
+    "variance": "low",
+    "active": false,
+    "launchDate": "2022-03-02T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00943-igt.png",
+    "features": [
+      "fruit"
+    ]
+  },
+  {
+    "gameId": "game-00946-genesis-gaming",
+    "title": "Thunderous Typhoon",
+    "studio": "Genesis Gaming",
+    "type": "slots",
+    "returnToPlayer": 94.09,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-12-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00946-genesis-gaming.png",
+    "features": [
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00949-elk-studios",
+    "title": "Zephyr Banshee",
+    "studio": "Elk Studios",
+    "type": "table",
+    "returnToPlayer": 98.05,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2021-10-14T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00949-elk-studios.png",
+    "features": [
+      "sports",
+      "fruit",
+      "classic",
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00952-pariplay",
+    "title": "Serene Reels Outpost 2",
+    "studio": "Pariplay",
+    "type": "slots",
+    "returnToPlayer": 95.22,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2025-11-23T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00952-pariplay.png",
+    "features": [
+      "anime"
+    ]
+  },
+  {
+    "gameId": "game-00955-orbital-spin",
+    "title": "Profane Wyvern Helm",
+    "studio": "Orbital Spin",
+    "type": "slots",
+    "returnToPlayer": 92.76,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-04-16T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00955-orbital-spin.png",
+    "features": [
+      "space",
+      "classic"
+    ]
+  },
+  {
+    "gameId": "game-00958-hacksaw-gaming",
+    "title": "Savage Mirage",
+    "studio": "Hacksaw Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 92.65,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-05-24T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00958-hacksaw-gaming.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00961-push-gaming",
+    "title": "Midnight Marketplace Meteor 8",
+    "studio": "Push Gaming",
+    "type": "slots",
+    "returnToPlayer": 95.23,
+    "variance": "high",
+    "active": false,
+    "launchDate": "2021-11-12T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00961-push-gaming.png",
+    "features": [
+      "bonus-buy"
+    ]
+  },
+  {
+    "gameId": "game-00964-reelplay",
+    "title": "Jade Ronin",
+    "studio": "ReelPlay",
+    "type": "slots",
+    "returnToPlayer": 95.36,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-04-22T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00964-reelplay.png",
+    "features": [
+      "classic",
+      "wild-west"
+    ]
+  },
+  {
+    "gameId": "game-00967-blueprint",
+    "title": "Twilight Enigma Chamber V",
+    "studio": "Blueprint",
+    "type": "jackpot",
+    "returnToPlayer": 91.7,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-09-08T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00967-blueprint.png",
+    "features": [
+      "classic",
+      "pirates"
+    ]
+  },
+  {
+    "gameId": "game-00970-pariplay",
+    "title": "Ultra Alchemist 970",
+    "studio": "Pariplay",
+    "type": "live",
+    "returnToPlayer": 97.47,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2020-01-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00970-pariplay.png",
+    "features": [
+      "space",
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00973-netent",
+    "title": "Blessed Whirlpool",
+    "studio": "NetEnt",
+    "type": "instant",
+    "returnToPlayer": 92.97,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2022-07-29T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00973-netent.png",
+    "features": [
+      "wild-west",
+      "adventure",
+      "bonus-buy",
+      "luxury"
+    ]
+  },
+  {
+    "gameId": "game-00976-netent",
+    "title": "Interstellar Galaxy",
+    "studio": "NetEnt",
+    "type": "jackpot",
+    "returnToPlayer": 95.3,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2023-02-11T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00976-netent.png",
+    "features": [
+      "progressive"
+    ]
+  },
+  {
+    "gameId": "game-00979-slingo-originals",
+    "title": "Atomic Dragons Vault",
+    "studio": "Slingo Originals",
+    "type": "jackpot",
+    "returnToPlayer": 91.09,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-01-17T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00979-slingo-originals.png",
+    "features": [
+      "anime",
+      "pirates",
+      "progressive",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00982-booming-games",
+    "title": "Iron Quest",
+    "studio": "Booming Games",
+    "type": "jackpot",
+    "returnToPlayer": 91.85,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2024-12-25T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00982-booming-games.png",
+    "features": []
+  },
+  {
+    "gameId": "game-00985-kaleidoscope",
+    "title": "Ashen Amulet Bazaar 4",
+    "studio": "Kaleidoscope",
+    "type": "instant",
+    "returnToPlayer": 93.2,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2023-12-07T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00985-kaleidoscope.png",
+    "features": [
+      "fruit",
+      "wild-west",
+      "mythology",
+      "adventure"
+    ]
+  },
+  {
+    "gameId": "game-00988-spinomenal",
+    "title": "Lost Steppe",
+    "studio": "Spinomenal",
+    "type": "live",
+    "returnToPlayer": 97.4,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2024-05-01T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00988-spinomenal.png",
+    "features": [
+      "wild-west",
+      "luxury",
+      "free-spins",
+      "sports"
+    ]
+  },
+  {
+    "gameId": "game-00991-greentube",
+    "title": "Frosted Oracle",
+    "studio": "Greentube",
+    "type": "slots",
+    "returnToPlayer": 92.62,
+    "variance": "low",
+    "active": true,
+    "launchDate": "2025-10-05T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00991-greentube.png",
+    "features": [
+      "mythology"
+    ]
+  },
+  {
+    "gameId": "game-00994-blueprint",
+    "title": "Crimson Kraken",
+    "studio": "Blueprint",
+    "type": "instant",
+    "returnToPlayer": 93.44,
+    "variance": "high",
+    "active": true,
+    "launchDate": "2019-09-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00994-blueprint.png",
+    "features": [
+      "progressive",
+      "megaways",
+      "free-spins"
+    ]
+  },
+  {
+    "gameId": "game-00997-merkur",
+    "title": "Fey Library Vault 5",
+    "studio": "Merkur",
+    "type": "table",
+    "returnToPlayer": 97.47,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2022-03-13T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-00997-merkur.png",
+    "features": []
+  },
+  {
+    "gameId": "game-01000-mascot-gaming",
+    "title": "Opulent Behemoth",
+    "studio": "Mascot Gaming",
+    "type": "jackpot",
+    "returnToPlayer": 90.49,
+    "variance": "medium",
+    "active": true,
+    "launchDate": "2019-03-15T00:00:00Z",
+    "thumbnail": "https://cdn.alpha.example.com/games/game-01000-mascot-gaming.png",
+    "features": [
+      "wild-west",
+      "horror",
+      "luxury",
+      "pirates"
+    ]
+  }
+]

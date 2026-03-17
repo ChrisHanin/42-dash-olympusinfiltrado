@@ -1,0 +1,101 @@
+name: Evaluate Submission
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+    inputs:
+      backend-url:
+        description: 'Backend URL to evaluate'
+        default: 'http://localhost:3000'
+      frontend-url:
+        description: 'Frontend URL to evaluate'
+        default: 'http://localhost:5173'
+      launch-secret:
+        description: 'HMAC secret for Trial VII'
+        default: 'default-secret-change-me'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  BACKEND_URL: ${{ inputs.backend-url || 'http://localhost:3000' }}
+  FRONTEND_URL: ${{ inputs.frontend-url || 'http://localhost:5173' }}
+  LAUNCH_SECRET: ${{ inputs.launch-secret || 'default-secret-change-me' }}
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Build and start services
+        run: docker compose up -d --build
+
+      - name: Wait for backend
+        run: |
+          for i in $(seq 1 30); do
+            if curl -sf "${{ env.BACKEND_URL }}/healthz" > /dev/null 2>&1; then
+              echo "Backend is ready"
+              exit 0
+            fi
+            echo "Waiting for backend... ($i/30)"
+            sleep 1
+          done
+          echo "Backend failed to start"
+          docker compose logs backend
+          exit 1
+
+      - name: Wait for frontend
+        run: |
+          for i in $(seq 1 30); do
+            if curl -sf "${{ env.FRONTEND_URL }}" > /dev/null 2>&1; then
+              echo "Frontend is ready"
+              exit 0
+            fi
+            echo "Waiting for frontend... ($i/30)"
+            sleep 1
+          done
+          echo "Frontend not started — FE trials will be skipped gracefully"
+
+      - name: Run evaluator
+        uses: aasanchez/42-evaluator@master
+        id: eval
+        with:
+          backend-url: ${{ env.BACKEND_URL }}
+          frontend-url: ${{ env.FRONTEND_URL }}
+          team: ${{ github.event.pull_request.head.repo.owner.login || github.repository_owner }}
+          launch-secret: ${{ env.LAUNCH_SECRET }}
+
+      - name: Show score summary
+        if: always()
+        run: |
+          echo "## Score Summary"
+          echo ""
+          echo "Backend: ${{ steps.eval.outputs.grand-total }} pts (${{ steps.eval.outputs.score }}/${{ steps.eval.outputs.max-score }} + ${{ steps.eval.outputs.bonus }} bonus)"
+          echo "Frontend: ${{ steps.eval.outputs.fe-grand-total }} pts (${{ steps.eval.outputs.fe-score }}/${{ steps.eval.outputs.fe-max-score }} + ${{ steps.eval.outputs.fe-bonus }} bonus)"
+          echo ""
+          if [ -f results.json ]; then
+            echo "=== Backend Trials ==="
+            jq -r '.trials[] | "  \(.trial) — \(.name): \(.score)/\(.maxScore)"' results.json
+          fi
+          if [ -f frontend-results.json ]; then
+            SKIPPED=$(jq -r '.skipped // false' frontend-results.json)
+            if [ "$SKIPPED" = "false" ]; then
+              echo ""
+              echo "=== Frontend Trials ==="
+              jq -r '.trials[] | "  \(.trial) — \(.name): \(.score)/\(.maxScore)"' frontend-results.json
+            else
+              echo ""
+              echo "=== Frontend: skipped ==="
+            fi
+          fi
+
+      - name: Stop services
+        if: always()
+        run: docker compose down
