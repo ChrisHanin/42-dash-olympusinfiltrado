@@ -64,7 +64,7 @@ jobs:
           echo "Frontend not started — FE trials will be skipped gracefully"
 
       - name: Run evaluator
-        uses: aasanchez/42-evaluator@master
+        uses: QTechGames/42-evaluator@master
         id: eval
         with:
           backend-url: ${{ env.BACKEND_URL }}
