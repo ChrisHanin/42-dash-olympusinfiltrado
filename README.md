@@ -881,9 +881,9 @@ only — the real world is never this kind).
 
 ### Reference Implementation (`evaluator/`)
 
-A Zig-based server that implements the correct behavior for
-all backend trials. Yes, Zig. The Arena does not follow
-trends.
+A Go binary that implements the correct behavior for all
+backend trials. Use it as a reference — your implementation
+must match its responses.
 
 ```bash
 cd evaluator

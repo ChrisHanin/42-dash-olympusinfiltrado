@@ -908,9 +908,9 @@ depuración — el mundo real nunca es tan amable).
 
 ### Implementación de Referencia (`evaluator/`)
 
-Un servidor basado en Zig que implementa el comportamiento
-correcto para todas las pruebas de backend. Sí, Zig. La Arena
-no sigue tendencias.
+Un binario en Go que implementa el comportamiento correcto
+para todas las pruebas de backend. Úsalo como referencia —
+tu implementación debe coincidir con sus respuestas.
 
 ```bash
 cd evaluator
