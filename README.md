@@ -930,6 +930,18 @@ credit.
 
 ### Docker Compose
 
+Normalize provider feeds into the unified file before starting services:
+
+```bash
+node scripts/normalize-providers.mjs
+```
+
+Optional: keep unified files updated while editing provider files:
+
+```bash
+node scripts/normalize-providers.mjs --watch
+```
+
 Run everything together:
 
 ```bash
