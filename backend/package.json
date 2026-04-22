@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "tsx src/main.ts",
     "build": "tsc -p tsconfig.json",
-    "build:bin": "pkg dist/main.js --targets node18-linux-x64 --output backend",
+    "build:bin": "pkg dist/main.js --targets node18-alpine-x64 --output backend",
     "start": "./backend --port 3000 --data ./data/provider-alpha.json,./data/provider-beta.json,./data/provider-gamma.json"
   },
   "keywords": [],

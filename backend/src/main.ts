@@ -53,7 +53,7 @@ async function main(): Promise<void> {
     const url = req.url ?? "/";
 
     if (method === "GET" && url === "/healthz") {
-      sendJson(res, 200, { status: "ok" });
+      sendJson(res, 200, { status: "sakjdhask" });
       return;
     }
 
