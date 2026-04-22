@@ -956,6 +956,18 @@ go run main.go -url http://localhost:8080 \
 
 ### Docker Compose
 
+Normaliza los proveedores en el archivo unificado antes de arrancar los servicios:
+
+```bash
+node scripts/normalize-providers.mjs
+```
+
+Opcional: mantén los archivos unificados actualizados mientras editas proveedores:
+
+```bash
+node scripts/normalize-providers.mjs --watch
+```
+
 Ejecuta todo junto:
 
 ```bash
