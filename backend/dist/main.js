@@ -38,14 +38,7 @@ async function main() {
         const method = req.method ?? "GET";
         const url = req.url ?? "/";
         if (method === "GET" && url === "/healthz") {
-            sendJson(res, 200, { status: "sakjdhask" });
-            return;
-        }
-        if (method === "GET" && url === "/api/_debug/config") {
-            sendJson(res, 200, {
-                port: config.port,
-                dataFiles: config.dataFiles,
-            });
+            sendJson(res, 200, { status: "ok" });
             return;
         }
         sendJson(res, 404, {
