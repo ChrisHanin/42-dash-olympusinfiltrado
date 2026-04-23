@@ -6,7 +6,7 @@
     "dev": "tsx src/main.ts",
     "build": "tsc -p tsconfig.json",
     "build:bin": "pkg dist/main.js --targets node18-alpine-x64 --output backend",
-    "start": "./backend --port 3000 --data ./data/provider-alpha.json,./data/provider-beta.json,./data/provider-gamma.json"
+    "start": "node dist/main.js --port 3000 --data ./data/provider-alpha.json,./data/provider-beta.json,./data/provider-gamma.json"
   },
   "keywords": [],
   "author": "",

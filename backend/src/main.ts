@@ -77,6 +77,12 @@ function parsePositiveInteger(value: string | null | undefined, fallback: number
   return normalized > 0 ? normalized : fallback;
 }
 
+function setCorsHeaders(res: import("node:http").ServerResponse): void {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+}
+
 function parseBoolean(value: string | null): boolean | undefined {
   if (value == null) {
     return undefined;
@@ -348,6 +354,7 @@ function sendJson(
   statusCode: number,
   payload: unknown,
 ): void {
+  setCorsHeaders(res);
   res.statusCode = statusCode;
   res.setHeader("Content-Type", "application/json; charset=utf-8");
   res.end(JSON.stringify(payload));
@@ -361,6 +368,13 @@ async function main(): Promise<void> {
     const method = req.method ?? "GET";
     const requestUrl = new URL(req.url ?? "/", "http://localhost");
     const pathname = requestUrl.pathname;
+
+    if (method === "OPTIONS") {
+      setCorsHeaders(res);
+      res.statusCode = 204;
+      res.end();
+      return;
+    }
 
     if (method === "GET" && pathname === "/healthz") {
       sendJson(res, 200, { status: "ok" });
